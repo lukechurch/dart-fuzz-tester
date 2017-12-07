@@ -1,0 +1,11 @@
+name: dart_fuzz_tester
+version: 0.0.1
+author: Dart Team <misc@dartlang.org>
+description: Tools for fuzz testing dart
+homepage: https://github.com/lukechurch/dart-fuzz-tester
+
+environment:
+  sdk: '>=1.0.0 <2.0.0-dev.infinity'
+
+dependencies:
+  path: ^1.3.0
